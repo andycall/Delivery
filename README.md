@@ -1,2 +1,2 @@
 # Delivery
-node.js 查询快递
+ES6 快递查询
