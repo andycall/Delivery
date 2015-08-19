@@ -1,0 +1,27 @@
+{
+  "name": "delivery",
+  "version": "0.0.1",
+  "description": "get your express info in command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andycall/Delivery.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "andycall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andycall/Delivery/issues"
+  },
+  "homepage": "https://github.com/andycall/Delivery#readme",
+  "dependencies": {
+    "pretty-print": "^1.0.0",
+    "request": "^2.60.0",
+    "thunkify": "^2.1.2"
+  }
+}
